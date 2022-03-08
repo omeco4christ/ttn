@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Components Extra Large Text renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#ffffff",
+        "fontSize": 34,
+        "fontWeight": "900",
+      },
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`Text Components Large Text renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#ffffff",
+        "fontSize": 28,
+        "fontWeight": "900",
+      },
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`Text Components Medium Text renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#ffffff",
+        "fontSize": 22,
+        "fontWeight": "800",
+      },
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`Text Components Small Text renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#ffffff",
+        "fontSize": 15,
+        "fontWeight": "400",
+      },
+      undefined,
+    ]
+  }
+/>
+`;
